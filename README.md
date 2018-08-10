@@ -6,7 +6,7 @@ Flutter - SQFlite/SQFlite database.  [Read me here](https://www.developerlibs.co
 [Facebook](https://www.facebook.com/developerlibs), 
 [G+](https://plus.google.com/109457600203481575432),
 [Instagram](https://www.instagram.com/developerlibs/), 
-[Twitter](https://twitter.com/LibsDeveloper),
+[Twitter](https://twitter.com/LibsDeveloper)
 
 
 ![ScreenShot](https://github.com/DeveloperLibs/flutter_database/blob/master/screen/Databasegif.gif)
